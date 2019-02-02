@@ -1,0 +1,15 @@
+export const LOGIN = 'LOGIN';
+export const LOGOUT = 'LOGOUT';
+
+export const IS_LOGGED = 'IS_LOGGED';
+
+export const LOGIN_HAS_ERROR = 'LOGIN_HAS_ERROR';
+
+
+export const LOGIN_IS_LOADING = 'LOGIN_IS_LOADING';
+
+export const FETCHING_DATA = 'FETCHING_DATA';
+export const FETCHING_DATA_SUCCESS = 'FETCHING_DATA_SUCCESS';
+export const FETCHING_DATA_FAILURE = 'FETCHING_DATA_FAILURE';
+export const ADD_BOOK = 'ADD_BOOK';
+export const ADD_BOOK_FAILURE = 'ADD_BOOK_FAILURE';
